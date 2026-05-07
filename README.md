@@ -100,7 +100,37 @@ This repository may include:
 - Governance reporting examples
 - Control assessment documentation
 - Risk treatment tracking
+---
 
+# 📁 Repository Structure
+
+```text
+Risk-Management-Framework
+│
+├── docs
+│   └── risk-scoring-methodology.md
+│
+├── samples
+│   └── control-gap-assessment.md
+│
+├── templates
+│   └── risk-register-template.md
+│
+└── README.md
+```
+
+---
+
+# 📌 Key Deliverables
+
+| Deliverable | Purpose |
+|---|---|
+| Risk Register Template | Structured cyber risk tracking |
+| Risk Scoring Methodology | Risk prioritization framework |
+| Control Gap Assessment | Control weakness evaluation |
+| Governance Documentation | Audit and compliance support |
+
+---
 ---
 
 ## 🛡️ Governance Perspective
